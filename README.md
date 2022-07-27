@@ -1,1 +1,1 @@
-# bhp
+# Code from the Black Hat Python Book (https://nostarch.com/black-hat-python2E)
